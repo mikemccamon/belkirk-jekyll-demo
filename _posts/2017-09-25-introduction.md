@@ -7,7 +7,6 @@ related_posts:
 sub_heading: An introduction to Forestry
 tags:
 - Demo
-- Forestry
 layout: post
 banner_image: ''
 
